@@ -14,7 +14,7 @@ def dict_invert(dictionary):
   return dict
 
 # constants
-#CENSUS_API_KEY = "YOUR KEY HERE"
+CENSUS_API_KEY = "YOUR KEY HERE"
 HOST = "https://api.census.gov/data"
 
 # set year for data and acs5 or sf1 (sf1 stands for summary file 1)

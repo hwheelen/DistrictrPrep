@@ -10,7 +10,7 @@ import pandas as pd
 from pprint import pprint
 
 # constants
-CENSUS_API_KEY = "684029528f2be7571d73884f1ce8884950c4b4ad"
+CENSUS_API_KEY = "YOUR_KEY_HERE"
 HOST = "https://api.census.gov/data"
 
 #set year for data and acs5 or sf1

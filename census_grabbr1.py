@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jun 30 18:30:41 2018
-@author: hannah
+@author: lee and hannah
 """
 import requests
 import pandas as pd
